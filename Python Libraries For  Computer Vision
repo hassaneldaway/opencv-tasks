@@ -1,0 +1,45 @@
+1| PyTorchCV
+PyTorchCV is a PyTorch-based framework for computer 
+vision tasks. The framework is a collection of image 
+classification, segmentation, detection, and pose estimation 
+models. There are a number of implemented models in this 
+framework, including AlexNet, ResNet, ResNeXt, PyramidNet, 
+SparseNet, DRN-C/DRN-D and more. 
+2|SimpleCV
+SimpleCV is one of the popular machine vision frameworks for 
+building computer vision applications. Written in Python, this 
+library helps in getting access to several high-powered 
+computer vision libraries such as OpenCV.
+The framework is a collection of libraries and software that can 
+be used to develop vision applications. It provides a concise, 
+readable interface for cameras, image manipulation, feature 
+extraction and format conversion. It also allows user to work 
+with the images or video streams that come from webcams, 
+Kinects, FireWire and IP cameras, or mobile phones.
+3| Scikit-Image
+Scikit-Image is a popular and open-source Python library that 
+includes a collection of algorithms for image processing. It is 
+basically an image processing toolbox for SciPy. The library is 
+built on scipy.ndimage to provide a versatile set of image 
+processing routines in Python language. This image 
+processing library provides a well-documented API in the 
+Python programming language and implements algorithms 
+and utilities for use in research, education and industry 
+applications.
+4| Pytessarct
+Pytessarct or Python-tesseract is an optical character 
+recognition (OCR) tool for the Python language. This tool is a 
+wrapper for Google’s Tesseract-OCR Engine and helps in 
+recognising and reading the text embedded in an image.
+The tool is also useful as a stand-alone invocation script to 
+tesseract, as it can read all image types supported by the 
+Pillow and Leptonica imaging libraries, including jpeg, png, gif, 
+bmp, tiff, and others.
+5| fastai
+fastai is a deep learning library that provides high-level 
+components which can quickly and easily provide state-of-theart results in standard deep learning domains. It also provides 
+researchers with low-level components that can be mixed and 
+matched to build new approaches.
+fastai includes various features, such as a GPUoptimised computer vision library which can be extended in 
+pure Python, a new type dispatch system for Python along 
+with a semantic type hierarchy for tensors and more
